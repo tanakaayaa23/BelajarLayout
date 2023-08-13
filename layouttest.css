@@ -1,0 +1,104 @@
+*,html,body{
+    margin: 0;
+    padding :0 ;
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+    border: 1px solid #000;
+}
+.A {
+    width : 100%;
+    height : 100px;
+    background-color: rgb(116, 255, 209);
+}
+.B {
+    width : 50%;
+    height : 200px;
+    background-color: rgb(70, 212, 165);
+    float : left;
+}
+.C {
+    width : 50%;
+    height : 200px;
+    background-color: rgb(22, 199, 140);
+    float: left;
+}
+.D {
+    width : 100%;
+    height : 200px;
+    background-color: rgb(35, 114, 88);
+    clear: both;
+}
+.E {
+    width : 33.3%;
+    height : 200px;
+    background-color: rgb(119, 173, 155);
+    float: left;
+}
+.F {
+    width : 33.3%;
+    height : 200px;
+    background-color: rgb(84, 177, 146);
+    float: left;
+}
+.G {
+    width : 33.3%;
+    height : 200px;
+    background-color: rgb(47, 179, 135);
+    float: left;
+}
+.H {
+    width : 100%;
+    height : 50px;
+    background-color: rgb(46, 126, 99);
+   clear: both;
+}
+.I {
+    width : 25%;
+    height : 100px;
+    background-color: rgb(151, 235, 207);
+    float: left;
+}
+.J {
+    width : 25%;
+    height : 100px;
+    background-color: rgb(98, 245, 196);
+    float: left;
+}
+.K {
+    width : 25%;
+    height : 100px;
+    background-color: rgb(47, 245, 179);
+    float: left;
+}
+.L {
+    width : 25%;
+    height : 100px;
+    background-color: rgb(0, 255, 170);
+    float: left;
+}
+.M {
+    width : 25%;
+    height : 50px;
+    background-color: rgb(107, 136, 126);
+    float: left;
+}
+.N {
+    width : 75%;
+    height : 50px;
+    background-color: rgb(151, 235, 207);
+    float: left;
+}
+.O {
+    width : 75%;
+    height : 50px;
+    background-color: rgb(33, 124, 94);
+    float: left;
+}
+.P {
+    width : 25%;
+    height : 50px;
+    background-color: rgb(3, 136, 91);
+    float: left;
+}
